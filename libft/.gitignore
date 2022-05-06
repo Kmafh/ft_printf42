@@ -1,0 +1,7 @@
+.vscode/
+main.c
+libft.a
+libft/
+libftTester/
+.DS_Store
+a.out

@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+src/a.out
+printfTester/
+ft_printf_tester/
+a.out
